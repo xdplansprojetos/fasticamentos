@@ -25,7 +25,7 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
-                    <Link to="#" >contato@fasticamentos.com.br</Link>
+                    <Link to="mailto:fasticamentos@gmail.com" >fasticamentos@gmail.com</Link>
                   </li>
                   <li>
                     <Link to="#" >Localizado na Vila Sónia</Link>
